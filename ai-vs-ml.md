@@ -5,4 +5,4 @@ artificial intelligence (ai) is a broad field that focuses on creating intellige
 
 "ai is magic"
 
-ai and ml are not magig. they are based on mathematical algorithms and statistical models that enable computers to learn from data and improve their performance on specific tasks. these systems are designed and trained by human developers and data scientists, and their capabilities are derived from the data they are trained on and the algorithms they employ.
+ai and ml are not magic. they are based on mathematical algorithms and statistical models that enable computers to learn from data and improve their performance on specific tasks. these systems are designed and trained by human developers and data scientists, and their capabilities are derived from the data they are trained on and the algorithms they employ.
